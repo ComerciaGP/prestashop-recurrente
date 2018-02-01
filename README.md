@@ -1,1 +1,1 @@
-# prestashop-recurrente
+# prestashop-recurring
